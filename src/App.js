@@ -14,7 +14,7 @@ function parent() {
     <div className="head">
       <h1>hello {state}</h1>
       <form>
-        <label>user details</label>
+        <label>user name</label>
         <input
           type="text"
           value={state}
